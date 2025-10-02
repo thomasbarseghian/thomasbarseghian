@@ -7,6 +7,7 @@
 ## Compétences
 
 **Langages :** 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,c,cs,figma&theme=light)
 Java, C#, C, Python, Assembleur
 
 **Développement web :** 
