@@ -8,7 +8,7 @@
 
 **Langages :** 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,c,cs,python,assembly,php&perline=10).
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,c,cs,python,assembly,php&perline=10)
 
 **Développement web :** 
 HTML, CSS, JavaScript, PHP
