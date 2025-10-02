@@ -9,6 +9,7 @@
 **Langages :** 
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,c,cs,python&perline=10&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,c,cs,python&perline=10)
 Java, C#, C, Python, Assembleur
 
 **Développement web :** 
