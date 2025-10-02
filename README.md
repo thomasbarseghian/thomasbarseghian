@@ -1,14 +1,13 @@
 # Thomas Barseghian
 
 Étudiant en informatique (2ᵉ année)  
-Passionné par le développement et les nouvelles technologies
 
 ---
 
 ## Compétences
 
-**Langages :** Python, Java, C, JavaScript, SQL  
-**Développement web :** HTML, CSS, JavaScript  
+**Langages :** Java, C#, C, Python, Assembleur
+**Développement web :** HTML, CSS, JavaScript, PHP
 **Bases de données :** MySQL, PostgreSQL  
 **Outils :** Git, GitHub, Linux  
 
