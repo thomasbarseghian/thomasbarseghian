@@ -6,10 +6,17 @@
 
 ## Compétences
 
-**Langages :** Java, C#, C, Python, Assembleur
-**Développement web :** HTML, CSS, JavaScript, PHP
-**Bases de données :** MySQL, PostgreSQL  
-**Outils :** Git, GitHub, Linux  
+**Langages :** 
+Java, C#, C, Python, Assembleur
+
+**Développement web :** 
+HTML, CSS, JavaScript, PHP
+
+**Bases de données :**
+MySQL, PostgreSQL  
+
+**Outils :**
+Git, GitHub, Linux  
 
 ---
 
