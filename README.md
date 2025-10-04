@@ -1,6 +1,6 @@
 # Thomas Barseghian
 
-Étudiant en informatique (2ᵉ année)  
+**Étudiant en informatique (2ᵉ année)** 
 
 ---
 
