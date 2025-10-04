@@ -16,7 +16,7 @@
 
 **Bases de données :**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite, &perline=10)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite&perline=10)
 
 **Outils :**
 Git, GitHub, Linux, uml, figma
