@@ -16,7 +16,8 @@
 
 **Bases de données :**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite&perline=7)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite&perline=7)![Uploading image.png…]()
+
 
 **Outils :**
 
