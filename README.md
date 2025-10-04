@@ -16,8 +16,7 @@
 
 **Bases de données :**
 
-<img src="https://github.com/user-attachments/assets/31265a8a-0a1a-4b48-999f-7e1dea3537d2" width="48" height="48" align="middle"> 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite&perline=7)
+<img src="https://github.com/user-attachments/assets/31265a8a-0a1a-4b48-999f-7e1dea3537d2" width="48" height="48" align="middle"> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite&perline=7)
 
 
 
