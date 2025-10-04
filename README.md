@@ -21,7 +21,7 @@
 **Outils :**
 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,git,github,figma,uml&perline=10)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=unity,linux,git,gitbash,github,figma,uml,aws,gitlab,stripe,supabase,virtualbox&perline=10)
 
 ---
 
