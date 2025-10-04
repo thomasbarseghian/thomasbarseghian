@@ -8,7 +8,7 @@
 
 **Langages maitrisé:** 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,c,cs,python,dotnet,assembly,bash&perline=10)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,c,cs,python,dotnet,assembly,bash&perline=7)
 
 **Développement web :** 
 
@@ -16,7 +16,7 @@
 
 **Bases de données :**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite&perline=10)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite&perline=7)
 
 **Outils :**
 
