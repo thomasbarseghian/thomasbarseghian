@@ -19,7 +19,9 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite&perline=10)
 
 **Outils :**
-Git, GitHub, Linux, uml, figma
+
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,git,github,figma,uml&perline=10)
 
 ---
 
