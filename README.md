@@ -15,10 +15,11 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php&perline=10)
 
 **Bases de données :**
-MySQL, PostgreSQL  
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite, &perline=10)
 
 **Outils :**
-Git, GitHub, Linux  
+Git, GitHub, Linux, uml, figma
 
 ---
 
