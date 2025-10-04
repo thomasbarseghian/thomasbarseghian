@@ -34,4 +34,4 @@
 
 ## Contact
 
-- Email : ton-email@exemple.com  
+- Email : barseghian.thomas@gmail.com 
