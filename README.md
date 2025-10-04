@@ -12,7 +12,7 @@
 
 **Développement web :** 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php&perline=10)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php&perline=7)
 
 **Bases de données :**
 
@@ -21,7 +21,7 @@
 **Outils :**
 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=unity,linux,git,gitbash,github,figma,uml,aws,gitlab,stripe,supabase,virtualbox&perline=10)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=unity,linux,git,gitbash,github,figma,uml,aws,gitlab,stripe,supabase,virtualbox&perline=7)
 
 ---
 
