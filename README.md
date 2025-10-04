@@ -16,7 +16,8 @@
 
 **Bases de données :**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite&perline=7)<img width="48" height="48" alt="ChatGPT Image Oct 4, 2025, 11_41_38 PM" src="https://github.com/user-attachments/assets/31265a8a-0a1a-4b48-999f-7e1dea3537d2" />
+<img width="60" height="60" alt="ChatGPT Image Oct 4, 2025, 11_41_38 PM" src="https://github.com/user-attachments/assets/31265a8a-0a1a-4b48-999f-7e1dea3537d2" />
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite&perline=7)
 
 
 
