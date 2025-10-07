@@ -3,7 +3,9 @@
 **Étudiant en informatique (2ᵉ année)** 
 
 ---
+
 Les projets ci-dessous ont été majoritairement réalisés dans le cadre de ma formation, au travers de projets tutorés.
+
 ---
 
 ## Compétences
