@@ -28,6 +28,8 @@ Les projets ci-dessous ont été majoritairement réalisés dans le cadre de ma 
 
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=unity,linux,git,gitbash,github,figma,uml,aws,gitlab,stripe,supabase,virtualbox&perline=7)
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/35afc3c3-e2a8-4d2a-9a06-a8b00dcd47d1" />
+
 
 ---
 
