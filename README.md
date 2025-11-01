@@ -36,8 +36,7 @@ Les projets ci-dessous ont été majoritairement réalisés dans le cadre de ma 
 
 ## Projets en cours
 
-- [Nom du projet 1](lien_vers_projet) — Description concise et claire  
-- [Nom du projet 2](lien_vers_projet) — Description concise et claire  
+- Polar design (lien_vers_projet) — Jeu sérieux sur l’impact psychologique du design dans des environnements extrêmes.
 
 ---
 
