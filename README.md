@@ -1,10 +1,11 @@
 # Thomas Barseghian
 
-**Étudiant en informatique (2ᵉ année)** 
+Étudiant en 2ᵉ année de BUT Informatique à l’IUT Robert Schuman, je me spécialise dans le développement logiciel, le développement web et l’architecture applicative.
+J’aime travailler en équipe, comprendre comment fonctionnent les systèmes et concevoir des projets complets du back-end au front-end.
 
 ---
 
-Les projets ci-dessous ont été majoritairement réalisés dans le cadre de ma formation, au travers de projets tutorés.
+Les projets que vous trouverez ici ont été réalisés dans le cadre de ma formation, au travers de projets tutorés.
 
 ---
 
