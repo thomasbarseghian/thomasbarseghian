@@ -9,7 +9,7 @@ Les projets que vous trouverez ici ont été réalisés dans le cadre de ma form
 
 ---
 
-# Les Projets :
+## Les Projets :
 
 ## 1. Gestion de caserne de pompiers — Projet tutoré (C# / SQLite)
 
