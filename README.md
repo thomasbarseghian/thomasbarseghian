@@ -9,17 +9,19 @@ Les projets que vous trouverez ici ont été réalisés dans le cadre de ma form
 
 ---
 
-**1. Gestion de caserne de pompiers — Projet tutoré (C# / SQLite)**
+# Les Projets :
+
+# 1. Gestion de caserne de pompiers — Projet tutoré (C# / SQLite)
 
 Application développée en 5 semaines en C# (.NET) permettant la gestion complète d’une caserne : missions, matériel, engins, personnel et statistiques.
 Le projet intègre une base SQLite, une architecture en UserControls, un mode connecté/déconnecté, ainsi que la génération de rapports PDF via iTextSharp. Plusieurs casernes peuvent être créées, consultées et liées pour permettre une coordination réaliste.
 
-**2. LAN Virtuelle — Simulation de réseau en langage C**
+# 2. LAN Virtuelle — Simulation de réseau en langage C
 
 Projet en C visant à simuler le fonctionnement d’un réseau local (LAN) : stations, switchs, connexions et envois de trames Ethernet.
 L’application lit un fichier de configuration pour construire un graphe réseau, gère l’apprentissage des adresses MAC, et simule la communication complète entre machines. Ce projet met en pratique les structures de données dynamiques, la gestion mémoire et les bases des réseaux informatiques.
 
-**3. DOOnjon & Dragon — Jeu de rôle textuel en Java**
+# 3. DOOnjon & Dragon — Jeu de rôle textuel en Java
 
 Application Java inspirée de Donjons & Dragons permettant de créer des personnages, explorer des donjons et affronter des monstres dans un système de combat au tour par tour.
 Le projet repose sur une architecture orientée objet, des tests unitaires JUnit 5 et des exceptions personnalisées. Réalisé en binôme sur 7 semaines dans le cadre d’un projet tutoré.
