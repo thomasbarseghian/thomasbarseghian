@@ -21,7 +21,7 @@ Le projet intègre une base SQLite, une architecture en UserControls, un mode co
 Projet en C visant à simuler le fonctionnement d’un réseau local (LAN) : stations, switchs, connexions et envois de trames Ethernet.
 L’application lit un fichier de configuration pour construire un graphe réseau, gère l’apprentissage des adresses MAC, et simule la communication complète entre machines. Ce projet met en pratique les structures de données dynamiques, la gestion mémoire et les bases des réseaux informatiques.
 
-## 3. DOOnjon & Dragon — Jeu de rôle textuel en Java
+## 3. Donjon & Dragon — Jeu de rôle textuel en Java
 
 Application Java inspirée de Donjons & Dragons permettant de créer des personnages, explorer des donjons et affronter des monstres dans un système de combat au tour par tour.
 Le projet repose sur une architecture orientée objet, des tests unitaires JUnit 5 et des exceptions personnalisées. Réalisé en binôme sur 7 semaines dans le cadre d’un projet tutoré.
