@@ -54,7 +54,7 @@ Le projet repose sur une architecture orientée objet, des tests unitaires JUnit
 
 ## Projets en cours
 
-- Polar design — Jeu sérieux sur l’impact psychologique du design dans des environnements extrêmes.
+- Polar design — Jeu sérieux sur l’impact psychologique du design dans des environnements extrêmes. (sortie prévue le 20/12/2025)
 
 ---
 
