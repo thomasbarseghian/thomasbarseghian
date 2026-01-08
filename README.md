@@ -13,7 +13,7 @@ Les projets que vous trouverez ici ont été réalisés dans le cadre de ma form
 
 ## 1. Polar Design — Jeu Serieux Unity (architecture & psychologie)
 
-Jeu Serieux développé avec Unity explorant l’impact de l’architecture et du design d’intérieur sur la psychologie humaine en environnement extrême (base scientifique Concordia en Antarctique). Le joueur aménage des espaces en tenant compte de l’éclairage circadien, des couleurs, du mobilier et de l’ergonomie, chaque choix influençant le stress, le moral et la cohésion de l’équipe. Le projet repose sur une architecture modulaire, l’utilisation de design patterns (Strategy, Observer, Command) et de ScriptableObjects pour la gestion des données et des systèmes. **Réalisé à 4 sur 14 semaines** dans le cadre d’un projet tutoré.
+Jeu Serieux développé avec Unity explorant l’impact de l’architecture et du design d’intérieur sur la psychologie humaine en environnement extrême (base scientifique Concordia en Antarctique). Le joueur aménage des espaces en tenant compte de l’éclairage circadien, des couleurs, du mobilier et de l’ergonomie, chaque choix influençant le stress, le moral et la cohésion de l’équipe. Le projet repose sur une architecture modulaire, l’utilisation de design patterns (Strategy, Observer, Command) et de ScriptableObjects pour la gestion des données et des systèmes. **Réalisé avec une équipe de 4 personnes sur 14 semaines** dans le cadre d’un projet tutoré.
 
 ## 2. Bataille Navale — Jeu Java / Swing (MVC & Design Patterns)
 
@@ -27,7 +27,7 @@ L’application lit un fichier de configuration pour construire un graphe résea
 ## 4. Gestion de caserne de pompiers — Application en C# / SQLite
 
 Application développée en 5 semaines en C# (.NET) permettant la gestion complète d’une caserne : missions, matériel, engins, personnel et statistiques.
-Le projet intègre une base SQLite, une architecture en UserControls, un mode connecté/déconnecté, ainsi que la génération de rapports PDF via iTextSharp. Plusieurs casernes peuvent être créées, consultées et liées pour permettre une coordination réaliste.  **Réalisé à 3 sur 6 semaines** dans le cadre d’un projet tutoré.
+Le projet intègre une base SQLite, une architecture en UserControls, un mode connecté/déconnecté, ainsi que la génération de rapports PDF via iTextSharp. Plusieurs casernes peuvent être créées, consultées et liées pour permettre une coordination réaliste.  **Réalisé avec une équipe de 3 personnes sur 6 semaines** dans le cadre d’un projet tutoré.
 
 ---
 
