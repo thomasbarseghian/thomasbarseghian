@@ -57,12 +57,7 @@ Le projet intègre une base SQLite, une architecture en UserControls, un mode co
 
 ---
 
-## Projets en cours
-
-- Polar design — Jeu sérieux sur l’impact psychologique du design dans des environnements extrêmes. (sortie prévue le 20/12/2025)
-
----
-
 ## Contact
 
-- Email : barseghian.thomas@gmail.com 
+- Email : barseghian.thomas@gmail.com
+- Linkedin : [Thomas Barseghian](https://www.linkedin.com/in/thomas-barseghian-49a2503a5)
