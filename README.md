@@ -13,12 +13,11 @@ Les projets que vous trouverez ici ont été réalisés dans le cadre de ma form
 
 ## 1. Polar Design — Jeu Serieux Unity (architecture & psychologie)
 
-Jeu Serieux développé avec Unity explorant l’impact de l’architecture et du design d’intérieur sur la psychologie humaine en environnement extrême (base scientifique Concordia en Antarctique). Le joueur aménage des espaces en tenant compte de l’éclairage circadien, des couleurs, du mobilier et de l’ergonomie, chaque choix influençant le stress, le moral et la cohésion de l’équipe. Le projet repose sur une architecture modulaire, l’utilisation de design patterns (Strategy, Observer, Command) et de ScriptableObjects pour la gestion des données et des systèmes.
+Jeu Serieux développé avec Unity explorant l’impact de l’architecture et du design d’intérieur sur la psychologie humaine en environnement extrême (base scientifique Concordia en Antarctique). Le joueur aménage des espaces en tenant compte de l’éclairage circadien, des couleurs, du mobilier et de l’ergonomie, chaque choix influençant le stress, le moral et la cohésion de l’équipe. Le projet repose sur une architecture modulaire, l’utilisation de design patterns (Strategy, Observer, Command) et de ScriptableObjects pour la gestion des données et des systèmes. Réalisé à 4 sur 3 mois et 2 semaines dans le cadre d’un projet tutoré.
 
-## 2. Donjon & Dragon — Jeu de rôle textuel en Java
+## 2. Bataille Navale — Jeu Java / Swing (MVC & Design Patterns)
 
-Application Java inspirée de Donjons & Dragons permettant de créer des personnages, explorer des donjons et affronter des monstres dans un système de combat au tour par tour.
-Le projet repose sur une architecture orientée objet, des tests unitaires JUnit 5 et des exceptions personnalisées. Réalisé en binôme sur 7 semaines dans le cadre d’un projet tutoré.
+Jeu de bataille navale développé en Java avec une interface graphique Swing, intégrant des mécaniques avancées (armes, pièges, intelligence artificielle) et un système de combat au tour par tour. Le projet repose sur une architecture MVC (Model–View–Controller) assurant une séparation claire des responsabilités, ainsi que sur plusieurs design patterns (Factory, Observer, Strategy, Façade, Callback) afin de garantir la maintenabilité, l’extensibilité et l’évolutivité du code. Réalisé en binôme sur 6 semaines dans le cadre d’un projet tutoré.
 
 ## 3. LAN Virtuelle — Simulation de réseau en langage C
 
