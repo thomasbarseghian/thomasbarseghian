@@ -29,6 +29,10 @@ Le projet intègre une base SQLite, une architecture en UserControls, un mode co
 Projet en C visant à simuler le fonctionnement d’un réseau local (LAN) : stations, switchs, connexions et envois de trames Ethernet.
 L’application lit un fichier de configuration pour construire un graphe réseau, gère l’apprentissage des adresses MAC, et simule la communication complète entre machines. Ce projet met en pratique les structures de données dynamiques, la gestion mémoire et les bases des réseaux informatiques. **Réalisé en binôme sur 4 semaines** dans le cadre d’un projet tutoré.
 
+## 5. Jeu 2048 Système - Moteur de jeu en C (POSIX & Multi-processus)
+
+Reproduction du célèbre jeu 2048 en langage C, conçue pour démontrer la maîtrise des interactions bas niveau et de la programmation système (standards POSIX). L'architecture repose sur une séparation stricte des responsabilités via plusieurs processus distincts (Entrée, Moteur, Affichage) communiquant par IPC (pipes nommés et anonymes, signaux). Le moteur intègre une gestion avancée de la concurrence via multi-threading, sécurisée par des Mutex et variables conditionnelles, assurant une fluidité parfaite et l'intégrité des données partagées en temps réel. Réalisé avec une équipe de 3 personnes sur 3 semaines dans le cadre d’un projet tutoré.
+
 ---
 
 ## Compétences
