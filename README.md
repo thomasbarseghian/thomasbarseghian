@@ -55,7 +55,7 @@ L’application lit un fichier de configuration pour construire un graphe résea
 **Outils :**
 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=unity,linux,git,gitbash,github,figma,uml&perline=7)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=unity,androidstudio,linux,git,gitbash,github,figma,uml&perline=7)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gitlab,stripe,supabase,virtualbox&perline=7) <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/35afc3c3-e2a8-4d2a-9a06-a8b00dcd47d1" /> <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/313b4c9e-93b9-497c-bd2e-618b15b3b903" />
 
