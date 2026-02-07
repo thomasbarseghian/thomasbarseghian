@@ -44,7 +44,7 @@ L’application lit un fichier de configuration pour construire un graphe résea
 
 **Développement web :** 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,laravel,&perline=7)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,laravel,typescript,&perline=7)
 
 **Bases de données :**
 
