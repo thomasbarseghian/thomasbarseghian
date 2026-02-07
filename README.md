@@ -40,7 +40,7 @@ L’application lit un fichier de configuration pour construire un graphe résea
 
 **Langages maitrisé:** 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,c,cs,python,dotnet,assembly,bash&perline=7)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,c,cs,python,dotnet,bash,assembly&perline=7)
 
 **Développement web :** 
 
